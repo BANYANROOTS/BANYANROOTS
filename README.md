@@ -2,9 +2,8 @@
 
 # 웹퍼블리셔 지망생 : 최용근
 ## I aspire to become a prospective web publisher.
-깃허브 프로필 소개입니다.
 
-경력과 스킬&툴, 포트폴리오등의 소개가 있습니다
+웹퍼블리셔 포트폴리오 페이지입니다. 아래 포트폴리오링크를 확인해주세요!
 
 ### 기본 정보
 1985.8월 13일생
@@ -13,7 +12,7 @@
 INFP
 
 ### 연락처
-010 9798 5191
-wpservice21@gmail.com
+010 9698 5191
+dhtlxm@gmail.com
 
 ### Languages and Tool
