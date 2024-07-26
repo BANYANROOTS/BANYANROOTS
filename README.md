@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HI%20THERE&fontSize=90)
 
 # 웹퍼블리셔 지망생 : 최용근
 ## I aspire to become a prospective web publisher.
