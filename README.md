@@ -38,7 +38,7 @@ https://banyanroots.github.io/pf4/
 ##3.PURITO홈페이지(반응형)<br>
 https://banyanroots.github.io/pf6/
 
-##4.교지원공제회홈페이지<br>
+##4.교직원공제회홈페이지<br>
 https://banyanroots.github.io/pf1/
 
 ##5.이스트소프트 홈페이지(반응형)<br>
